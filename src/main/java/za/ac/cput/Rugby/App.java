@@ -8,8 +8,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 /**
  * Hello world!
- *
- */
+ **/
 @Configuration
 @ComponentScan
 @EnableWebMvc
